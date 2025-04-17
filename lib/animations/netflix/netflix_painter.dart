@@ -1,5 +1,5 @@
-import 'package:five_splash_screen/painters/netflix/utils/models.dart';
-import 'package:five_splash_screen/painters/netflix/utils/path_painter.dart';
+import 'package:five_splash_screen/animations/netflix/utils/models.dart';
+import 'package:five_splash_screen/animations/netflix/utils/path_painter.dart';
 import 'package:flutter/material.dart';
 
 class NetflixAnimatedPainter extends PathPainter {

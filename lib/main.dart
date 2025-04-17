@@ -1,7 +1,7 @@
-import 'package:five_splash_screen/painters/netflix/netflix_animation.dart';
-import 'package:five_splash_screen/painters/pinterest/pinterest_animation.dart';
-import 'package:five_splash_screen/painters/uber/uber_animation.dart';
-import 'package:five_splash_screen/painters/youtube/youtube_animation.dart';
+import 'package:five_splash_screen/animations/netflix/netflix_animation.dart';
+import 'package:five_splash_screen/animations/pinterest/pinterest_animation.dart';
+import 'package:five_splash_screen/animations/uber/uber_animation.dart';
+import 'package:five_splash_screen/animations/youtube/youtube_animation.dart';
 import 'package:flutter/material.dart';
 
 

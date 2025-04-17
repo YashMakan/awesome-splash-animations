@@ -1,5 +1,5 @@
-import 'package:five_splash_screen/painters/netflix/netflix_painter.dart';
-import 'package:five_splash_screen/painters/netflix/utils/path_parser.dart';
+import 'package:five_splash_screen/animations/netflix/netflix_painter.dart';
+import 'package:five_splash_screen/animations/netflix/utils/path_parser.dart';
 import 'package:flutter/material.dart';
 
 import 'segments.dart';

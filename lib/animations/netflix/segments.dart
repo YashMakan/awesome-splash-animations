@@ -1,4 +1,4 @@
-import 'package:five_splash_screen/painters/netflix/utils/models.dart';
+import 'package:five_splash_screen/animations/netflix/utils/models.dart';
 import 'package:flutter/material.dart';
 
 List<Path> netflixSegments() {
